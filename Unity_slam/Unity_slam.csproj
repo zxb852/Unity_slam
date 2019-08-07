@@ -628,6 +628,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Minimap_ctrl.cs" />
+    <Compile Include="Assets\Minimap_draw.cs" />
     <Compile Include="Assets\WebCam.cs" />
   </ItemGroup>
   <ItemGroup>
