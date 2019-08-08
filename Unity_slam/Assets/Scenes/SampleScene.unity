@@ -245,7 +245,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 35cd7ef2ef7ced6439d1d8073969c26b, type: 2}
+  - {fileID: 2100000, guid: 0e1597d176f464a4e9bf592bbbe6beeb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -422,7 +422,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4a3cf6cecb9938540a673cd5088bcd38, type: 2}
+  - {fileID: 2100000, guid: 6c5d23726b250d1429bdb26a483778af, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -463,6 +463,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Player: {fileID: 1674625859}
+  minimap_quad: {fileID: 178619368}
+  rt: {fileID: 8400000, guid: e2a8677b156b5c94493feff507d3846a, type: 2}
 --- !u!1 &1674625859
 GameObject:
   m_ObjectHideFlags: 0
